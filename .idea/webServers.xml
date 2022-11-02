@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f25d816b-f1df-430c-be03-10e26c1dece2" name="hosting22000631.co.kr" url="http://hosting22000631.dothome.co.kr">
+        <fileTransfer host="hosting22000631.dothome.co.kr" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
